@@ -1,0 +1,12 @@
+{
+	"name": "heroku-wporgbot-cron",
+	"description": "A cron job for wporgbot",
+	"repository": "https://github.com/hoangsoft90/wporginstaller",
+	"logo": "https://app.23webhost.com/images/logo.png",
+	"website": "https://bck.haibasoft.com/",
+	"stack": "container",
+	"image": "ghcr.io/hoangweb/installbot:latest",
+	"env": {
+	    
+	}
+}
