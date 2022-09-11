@@ -1,1 +1,1 @@
-FROM ghcr.io/hoangweb/installbot:latest
+FROM ghcr.io/hoangweb/installbot_heroku:latest

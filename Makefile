@@ -1,4 +1,4 @@
-IMAGE_NAME = installbot
+IMAGE_NAME = installbot_heroku
 VERSION = latest
 FILE = Dockerfile
 
